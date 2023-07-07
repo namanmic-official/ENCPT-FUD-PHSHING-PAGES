@@ -1,0 +1,31 @@
+/* Specific page styles */
+section {
+  max-width: 800px;
+ margin: 20px auto;
+  padding: 20px;
+  background-color: #ffe9ec;
+  border: 1px solid #e6e6e6;
+}
+
+h2 {
+  font-size: 30px;
+  margin-bottom: 20px;
+}
+
+h3 {
+  font-size: 24px;
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+p {
+  line-height: 1.5;
+  margin-bottom: 10px;
+}
+
+ul {
+  margin-bottom: 10px;
+  padding-left: 20px;
+}
+
+
